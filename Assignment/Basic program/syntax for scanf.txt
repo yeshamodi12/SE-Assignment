@@ -1,0 +1,10 @@
+Syntax for scanf is:
+
+int main(){
+
+variable declaration;
+printf()
+scanf("data type declaration",& your variable);
+
+code
+}
