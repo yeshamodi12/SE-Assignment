@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Dynamic Pseudo</title>
+		<sty
+</head>	
+</html>

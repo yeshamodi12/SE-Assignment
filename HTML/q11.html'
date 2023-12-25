@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title> Albert Einstein </title>
+        <style type='text/css' media='all'>
+            li a {
+                padding: 2px;
+                color: black;
+                font-size: 15pt;
+                text-decoration: none;
+            }
+            li a:link {
+                background-color: white;
+                color: black;
+            }
+            li a:visited {
+                background-color: black;
+                color: white;
+            }
+            li a:active {
+                background-color: lightgray;
+                color: black;
+            }
+            li a:hover, li a:focus {
+                background-color: gray;
+                color: white;
+            }
+            ul {
+                list-style: none;
+            }
+            li {
+                border: 1px solid black;
+                padding: 5px;
+                margin: 2px;
+                float: left;
+            }
+
+        </style>
+    </head>
+    <body>
+        <ul>
+            <li><a href='http://www.google.com'>Google</a></li>
+            <li><a href='http://p2p.wrox.com'>Wrox P2P</a></li>
+            <li><a href='http://www.mozilla.org'>Mozilla</a></li>
+            <li><a href='http://pear.php.net'>PEAR</a></li>
+        </ul>
+    </body>
+</html>
